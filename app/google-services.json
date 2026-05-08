@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335091834047",
+    "project_id": "mepatech-2e82c",
+    "storage_bucket": "mepatech-2e82c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335091834047:android:a05e344f3d3ac6e6557a0a",
+        "android_client_info": {
+          "package_name": "com.wayuyu.mepatech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmlM876nYrJVtXy3_gkxHu0a1edOWMmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
